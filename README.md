@@ -30,6 +30,14 @@
 - Adicionar um sistema de delegação de votos.
 
 ## Opening Video:
-
+- 
 
 ## Tutorial:
+- 
+
+## Links úteis
+
+-
+-
+-
+-
